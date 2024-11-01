@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.titulo-estilo1 {
+    font-size: 2.5em;
+    color: #1E90FF;
+    background-color: #E0F7FA;
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+.titulo-estilo2 {
+    font-size: 2.5em;
+    color: #4CAF50;
+    background-color: #E8F5E9;
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+.texto-estilo1 {
+    font-size: 1.2em;
+    color: #000;
+    background-color: #E3F2FD;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+.texto-estilo2 {
+    font-size: 1.2em;
+    color: #000;
+    background-color: #E8F5E9;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+.titulo-estilo3 {
+    font-size: 2.5em;
+    color: #ff01c8;
+    background-color: #ffd1f5;
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+.texto-estilo3 {
+    font-size: 1.2em;
+    color: #000;
+    background-color: #ffd1f5;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+.titulo-estilo4 {
+    font-size: 2.5em;
+    color: #ff8800;
+    background-color: #f5d8b7;
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+.texto-estilo4 {
+    font-size: 1.2em;
+    color: #000;
+    background-color: #f5d8b7;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+.youtube {
+    width: 560px;
+    height: 315px;
+}
+
+footer {
+    padding: 10px;
+}
